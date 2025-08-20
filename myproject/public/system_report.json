@@ -1,0 +1,34 @@
+{
+  "machineId": "LAPTOP-B0H8373J-b875e0",
+  "hostname": "LAPTOP-B0H8373J",
+  "platform": "Windows-10-10.0.22631-SP0",
+  "agentVersion": "0.1.0",
+  "timestamp": "2025-08-18T04:38:06Z",
+  "diskEncryption": {
+    "status": true,
+    "detail": "Protection Off"
+  },
+  "osUpdate": {
+    "status": "updates_available",
+    "count": 6,
+    "titles": [
+      "Windows Malicious Software Removal Tool x64 - v5.135 (KB890830)",
+      "Security Intelligence Update for Microsoft Defender Antivirus - KB2267602 (Version 1.435.238.0) - Current Channel (Broad)",
+      "2025-07 Cumulative Update for .NET Framework 3.5 and 4.8.1 for Windows 11, version 23H2 for x64 (KB5056580)",
+      "HP Inc. - SoftwareComponent - 1.80.4268.0",
+      "HP Inc. - SoftwareComponent - 4.2.2489.0",
+      "Windows 11, version 24H2"
+    ]
+  },
+  "antivirus": {
+    "status": true,
+    "products": [
+      "Windows Defender",
+      "McAfee VirusScan"
+    ]
+  },
+  "sleepTimeout": {
+    "status": 1,
+    "detail": "Detected candidate sleep timeout (minutes): [1, 3, 5, 240]"
+  }
+}
