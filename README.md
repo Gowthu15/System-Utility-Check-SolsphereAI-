@@ -52,9 +52,9 @@ solsphere/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd solsphere
-
+git clone https://github.com/Gowthu15/System-Utility-Check-SolsphereAI-.git
+cd system-utility
+python main.py
 
 ### 2️⃣ Backend Setup (JSON Server)
 
